@@ -3,7 +3,7 @@ English Vietnamese parallel corpus from OpenSubtitle_v2018 (http://opus.nlpl.eu/
 
 Trong Corpus này bao gồm dữ liệu từ OpenSubtitle_v2018 và dữ liệu đã xử lý lại (OpenSubtitles_v2018_Context)
 
-### OpenSubtitles_v2018_Context 
+### OpenSubtitles_v2018_Context (1.17Gb) - (3,505,275 cặp câu en-vi)
 (https://drive.google.com/drive/folders/17Sw_zXANv9vI2QlDeBzkClSjJUOfg-NE?usp=sharing)
 * en_second.txt và vi_second.txt là dữ liệu đã thêm Giây bắt đầu (startSecond), giây kết thúc (endSecond), câu (text). Cấu trúc file với thứ tự như sau:
         startSecond <> endSecond <> text
