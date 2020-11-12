@@ -5,8 +5,8 @@ Trong Corpus này bao gồm dữ liệu từ OpenSubtitle_v2018 và dữ liệu 
 
 ### OpenSubtitles_v2018_Context (1.17Gb) - (3,505,275 cặp câu en-vi)
 (https://drive.google.com/drive/folders/17Sw_zXANv9vI2QlDeBzkClSjJUOfg-NE?usp=sharing)
-* en_second.txt và vi_second.txt là dữ liệu đã thêm Giây bắt đầu (startSecond), giây kết thúc (endSecond), câu (text). Cấu trúc file với thứ tự như sau:
-        startSecond <> endSecond <> text
+* en_seconds.txt và vi_seconds.txt là dữ liệu đã thêm Giây bắt đầu (startSeconds), giây kết thúc (endSeconds), câu (text). Cấu trúc file với thứ tự như sau:
+        startSeconds <> endSeconds <> text
 
 * en_context_source.txt và vi_context_source.txt là dữ liệu ghép theo context cách nhau bởi <BOS>, các câu cách nhau dưới 5s sẽ được nhập chung với nhau, với thứ tự câu [context <BOS> source]
   
