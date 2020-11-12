@@ -1,5 +1,5 @@
-# English Vietnamese
-Corpus English Vietnamese from OpenSubtitle_v2018 (http://opus.nlpl.eu/index.php)
+# English Vietnamese parallel corpus
+English Vietnamese parallel corpus from OpenSubtitle_v2018 (http://opus.nlpl.eu/index.php)
 
 Trong Corpus này bao gồm dữ liệu từ OpenSubtitle_v2018 và dữ liệu đã xử lý lại (OpenSubtitles_v2018_Context)
 
